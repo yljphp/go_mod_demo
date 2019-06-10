@@ -1,4 +1,4 @@
-module yljphp.com/demo
+module github.com/yljphp/go_mod_demo
 
 go 1.12
 
